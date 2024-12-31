@@ -1,0 +1,54 @@
+@media (max-width: 38rem) {
+  body {
+  }
+  .container {
+    /* background-color: green; */
+    max-width: 90%;
+  }
+
+  header img {
+    width: 40%;
+  }
+
+  .hero {
+    /* background-color: blue; */
+    max-width: 100%;
+    flex-direction: column;
+    margin-bottom: 5rem;
+  }
+  .right {
+    /* background-color: aqua; */
+  }
+
+  .right img {
+    /* width: 100%; */
+    width: 350px;
+  }
+
+  .hero h2 {
+    /* background-color: brown; */
+    width: 100%;
+    font-size: 2.5rem;
+    text-align: center;
+  }
+
+  .left p {
+    /* background-color: blueviolet; */
+    text-align: center;
+    font-size: 1.7rem;
+  }
+
+  .btn-container {
+    /* background-color: brown; */
+    text-align: center;
+  }
+
+  .hero button {
+    padding: 1.2rem 7rem;
+  }
+
+  footer {
+    /* background-color: black; */
+    justify-content: center;
+  }
+}
